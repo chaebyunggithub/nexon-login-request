@@ -1,0 +1,7 @@
+https://login.nexon.com/login/page/encryptinfo.aspx
+> NgbSecurity.HandleResponse('<nxaml><object name="result"><string name="e" value="010001" /><string name="m" value="A3A69317FB92A534912A0999A7EEE826358C05F434C5E1EDB61C68E882CE52F7573FA44CE46E858673A8A328E17712FDAAECF383F13ECC1FD9D1505D2F23C983AD36F951788DEE30F1AE2A34F2DB13E46C409980A5467E05C7667AAD896464ABB073AA01AAFE130E28FA4D3D6A57ECA8422A482E22C5E0BA67434160B95A68DF" /><string name="h" value="eJt3bbj0rqmvtElY00D2YgS2hc4=" /></object></nxaml>');
+
+https://login.nexon.com/login/page/loginproc.aspx
+> strEncData
+
+https://logins.nexon.com/login/page/ngb_login.aspx
